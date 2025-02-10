@@ -13,6 +13,8 @@ Lazy Paint : https://spacedock.info/mod/3415/Lazy Painter
   - Textures Unlimited Recolor Depot: (MULTIPLE)
     + Stock Recolor: https://drive.google.com/file/d/1PczfhPGESs433kiZotKV6W1T6Ak04F0j/view
     + DLC Recolor: https://github.com/OnlyLightMatters/TURD-MH-BG/releases
+    + BD Recolor: https://github.com/Spartwo/TURD-BDArmory/releases
+    + KP Dynamics: https://github.com/KerbalPowers/KP-Dynamics/releases
 
 DeferredRendering : https://github.com/LGhassen/Deferred/releases
 

@@ -1,6 +1,17 @@
+## Weapons
 BD Armory : https://github.com/BrettRyland/BDArmory/releases
 BD Armory Extended : https://github.com/BrettRyland/BDArmory-Extended/releases
 Refurbished Armory: https://github.com/Spartwo/Refurbished-Armory/releases
+Wraithforge: https://spacedock.info/mod/667/Wraithforge
+KP Armory: https://github.com/KerbalPowers/KP-Armory/releases
+
+## Control Parts
+KP Dynamics: https://github.com/KerbalPowers/KP-Dynamics/releases
 KCS : https://github.com/Halbann/StockCombatAI/releases
+
+## Gameplay Tweaks
+MiniMods: https://github.com/KerbalPowers/MiniMods/releases
+Ground Effect: https://github.com/Capital-Asterisk/KSP_GroundEffect/releases
+
 
 Use Most Recent Versions Of All, these dependencies are being updated

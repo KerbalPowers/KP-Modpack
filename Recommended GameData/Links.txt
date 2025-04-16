@@ -31,3 +31,5 @@ Stock Waterfall Effects : https://github.com/KnightofStJohn/StockWaterfallEffect
 Scatterer : https://spacedock.info/mod/141/scatterer
 
 KSP Community Fixes : https://github.com/KSPModdingLibs/KSPCommunityFixes/releases
+
+ReCoupler: https://spacedock.info/mod/1250/ReCoupler

@@ -9,6 +9,10 @@ KP Armory: https://github.com/KerbalPowers/KP-Armory/releases
 KP Dynamics: https://github.com/KerbalPowers/KP-Dynamics/releases
 KCS : https://github.com/Halbann/StockCombatAI/releases
 
+## Tank Tracks
+Kerbal Foundries: https://github.com/shadowmage45/KerbalFoundries2/releases
+Requires KSPWheel: https://github.com/shadowmage45/KSPWheel/releases
+
 ## Gameplay Tweaks
 MiniMods: https://github.com/KerbalPowers/MiniMods/releases
 Ground Effect: https://github.com/Capital-Asterisk/KSP_GroundEffect/releases

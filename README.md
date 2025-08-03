@@ -1,7 +1,5 @@
-<img width="8000" height="2000" alt="image" src="https://github.com/user-attachments/assets/6779ab3d-6bd2-44a0-ae4d-91dd9516c193" />
+<img width="6000" height="2653" alt="image" src="https://github.com/user-attachments/assets/8fdb826a-8380-4f93-b59f-281526e8eb00" />
 
-
-# Official Kerbal Powers 3 Modpack
 -------------------------------------------------------
 ## How To Install
 

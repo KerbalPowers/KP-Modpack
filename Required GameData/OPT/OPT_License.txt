@@ -1,0 +1,16 @@
+Title: OPT Space Plane Parts V2.0.1
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+Credits:
+Creator: K.Yeon
+
+Included Plugins:
+Module Manager, by forum user sarbian
+FireSpitter, by forum user Snjo
+
+Included Mods:
+RasterPropMonitor, by forum user Mihara, MOARdV
+ASET Props, by forum user alexustas
+ASET Avionic Props, by forum user alexustas
+"ASET Props/Avionics" by Alexustas is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.

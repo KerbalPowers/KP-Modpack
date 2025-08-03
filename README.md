@@ -21,7 +21,9 @@ KP Armory: https://github.com/KerbalPowers/KP-Armory/releases
 ### Control Parts
 KP Dynamics: https://github.com/KerbalPowers/KP-Dynamics/releases
 
-KCS : https://github.com/Halbann/StockCombatAI/releases
+Kessler : https://github.com/Halbann/StockCombatAI/releases
+
+&nbsp;&nbsp;&nbsp;&nbsp;Requires CC : https://spacedock.info/mod/3067/Continuous%20Collisions
 
 ### Tank Tracks
 Kerbal Foundries: https://github.com/shadowmage45/KerbalFoundries2/releases
@@ -54,7 +56,7 @@ Precise Editor: https://github.com/zolotiyeruki/PreciseEditor/blob/master/Precis
 
 KSP Community Fixes: https://github.com/KSPModdingLibs/KSPCommunityFixes/releases
 
-ReCoupler: https://spacedock.info/mod/1250/ReCoupler
+Stapler: https://spacedock.info/mod/3721/Stapler
 
 ### Visual
 Lazy Paint: https://spacedock.info/mod/3415/Lazy%20Painter

@@ -58,6 +58,8 @@ KSP Community Fixes: https://github.com/KSPModdingLibs/KSPCommunityFixes/release
 
 Stapler: https://spacedock.info/mod/3721/Stapler
 
+VAB Organiser: https://github.com/post-kerbin-mining-corporation/VABOrganizer
+
 ### Visual
 Lazy Paint: https://spacedock.info/mod/3415/Lazy%20Painter
 

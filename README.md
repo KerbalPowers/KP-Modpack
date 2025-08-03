@@ -50,8 +50,6 @@ Correct COL: https://spacedock.info/mod/789/CorrectCoL
 
 &nbsp;&nbsp;&nbsp;&nbsp;Requires Toolbar Controller: https://github.com/linuxgurugamer/ToolbarControl/releases
 
-CameraTools: https://spacedock.info/mod/2657/Camera%20Tools%20continued
-
 Precise Editor: https://github.com/zolotiyeruki/PreciseEditor/blob/master/PreciseEditor.zip
 
 KSP Community Fixes: https://github.com/KSPModdingLibs/KSPCommunityFixes/releases

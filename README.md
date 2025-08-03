@@ -2,6 +2,13 @@
 
 -------------------------------------------------------
 ## How To Install
+### Option A - .Bat Installer
+1. Place the .Bat file in your root KSP folder
+2. Run the .Bat file
+
+### Option B - Manual
+1. Download this repo and extract the contents into KSP/GameData
+2. Install the mods listed below  
 
 ## Required Mods
 ### Weapons

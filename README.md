@@ -1,10 +1,12 @@
+<img width="8000" height="2000" alt="image" src="https://github.com/user-attachments/assets/6779ab3d-6bd2-44a0-ae4d-91dd9516c193" />
+
+
 # KP-Modpack
 -------------------------------------------------------
-### How To Install
+## How To Install
 
--------------------------------------------------------
-### Required Mods
-## Weapons
+## Required Mods
+### Weapons
 BD Armory : https://github.com/BrettRyland/BDArmory/releases
 
 &nbsp;&nbsp;&nbsp;&nbsp;Requires PRE : https://github.com/jrodrigv/PhysicsRangeExtender/releases
@@ -18,24 +20,23 @@ Wraithforge: https://spacedock.info/mod/667/Wraithforge
 KP Armory: https://github.com/KerbalPowers/KP-Armory/releases
 
 
-## Control Parts
+### Control Parts
 KP Dynamics: https://github.com/KerbalPowers/KP-Dynamics/releases
 
 KCS : https://github.com/Halbann/StockCombatAI/releases
 
-## Tank Tracks
+### Tank Tracks
 Kerbal Foundries: https://github.com/shadowmage45/KerbalFoundries2/releases
 
 &nbsp;&nbsp;&nbsp;&nbsp;Requires KSPWheel: https://github.com/shadowmage45/KSPWheel/releases
 
-## Gameplay Tweaks
+### Gameplay Tweaks
 MiniMods: https://github.com/KerbalPowers/MiniMods/releases
 
 Ground Effect: https://github.com/Capital-Asterisk/KSP_GroundEffect/releases
 
--------------------------------------------------------
-### Optional Mods
-## Quality of Life
+## Optional Mods
+### Quality of Life
 Mouse Aim Flight: https://legacy.curseforge.com/kerbal/ksp-mods/mouse-aim-flight
 
 
@@ -57,7 +58,7 @@ KSP Community Fixes: https://github.com/KSPModdingLibs/KSPCommunityFixes/release
 
 ReCoupler: https://spacedock.info/mod/1250/ReCoupler
 
-## Visual
+### Visual
 Lazy Paint: https://spacedock.info/mod/3415/Lazy%20Painter
 
 
@@ -80,8 +81,7 @@ Stock Waterfall Effects: https://github.com/KnightofStJohn/StockWaterfallEffects
 
 Scatterer: https://spacedock.info/mod/141/scatterer
 
--------------------------------------------------------
-### About
+## About
 
 Kerbal Powers is a geopolitical role-playing game using the universe of Kerbal Space Program as its setting. More info can be found at:
 

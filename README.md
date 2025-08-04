@@ -22,6 +22,8 @@ Refurbished Armory: https://github.com/Spartwo/Refurbished-Armory/releases
 
 Wraithforge: https://spacedock.info/mod/667/Wraithforge
 
+NAS: https://spacedock.info/mod/83/NAS%20-%20Naval%20Artillery%20System
+
 KP Armory: https://github.com/KerbalPowers/KP-Armory/releases
 
 

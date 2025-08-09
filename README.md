@@ -67,6 +67,8 @@ Stapler: https://spacedock.info/mod/3721/Stapler
 
 VAB Organiser: https://github.com/post-kerbin-mining-corporation/VABOrganizer
 
+Node Helper: https://spacedock.info/mod/2284/NodeHelper
+
 ### Visual
 Lazy Paint: https://spacedock.info/mod/3415/Lazy%20Painter
 

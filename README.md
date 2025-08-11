@@ -75,11 +75,11 @@ Lazy Paint: https://spacedock.info/mod/3415/Lazy%20Painter
 
 Textures Unlimited Recolor Depot: (MULTIPLE)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Requires TexturesUnlimited : https://github.com/LGhassen/TexturesUnlimited/releases/ 
+&nbsp;&nbsp;&nbsp;&nbsp;Requires TexturesUnlimited : https://github.com/KSPModStewards/TexturesUnlimited/releases
 
 &nbsp;&nbsp;&nbsp;&nbsp;Stock Recolor: https://drive.google.com/file/d/1PczfhPGESs433kiZotKV6W1T6Ak04F0j/view
 
-&nbsp;&nbsp;&nbsp;&nbsp;DLC Recolor: https://github.com/OnlyLightMatters/TURD-MH-BG/releases
+&nbsp;&nbsp;&nbsp;&nbsp;DLC Recolor: https://github.com/Spartwo/TURD-MH-BG/releases
 
 &nbsp;&nbsp;&nbsp;&nbsp;BD Recolor: https://github.com/Spartwo/TURD-BDArmory/releases
 

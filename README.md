@@ -43,6 +43,8 @@ MiniMods: https://github.com/KerbalPowers/MiniMods/releases
 
 Ground Effect: https://github.com/Capital-Asterisk/KSP_GroundEffect/releases
 
+Rational Hydrodynamics: https://spacedock.info/mod/2635/Rational%20HydroDynamics
+
 ## Optional Mods
 ### Quality of Life
 Mouse Aim Flight: https://legacy.curseforge.com/kerbal/ksp-mods/mouse-aim-flight

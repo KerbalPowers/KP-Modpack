@@ -38,8 +38,6 @@ Kessler : https://github.com/Halbann/StockCombatAI/releases
 ### Tank Tracks
 Kerbal Foundries: https://github.com/shadowmage45/KerbalFoundries2/releases
 
-&nbsp;&nbsp;&nbsp;&nbsp;Requires KSPWheel: https://github.com/shadowmage45/KSPWheel/releases
-
 ### Gameplay Tweaks
 MiniMods: https://github.com/KerbalPowers/MiniMods/releases
 

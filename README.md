@@ -84,6 +84,8 @@ Textures Unlimited Recolor Depot: (MULTIPLE)
 
 &nbsp;&nbsp;&nbsp;&nbsp;BD Recolor: https://github.com/Spartwo/TURD-BDArmory/releases
 
+&nbsp;&nbsp;&nbsp;&nbsp;Kerbal Foundries: https://github.com/KerbalPowers/TURD-KerbalFoundries
+
 
 DeferredRendering: https://github.com/LGhassen/Deferred/releases
 

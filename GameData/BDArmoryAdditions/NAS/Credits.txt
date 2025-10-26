@@ -1,0 +1,7 @@
+﻿BahamutoD for creating the almighty BDArmory
+BDAc developers for maintaining BDArmory after Baha's away and continuing its glories
+harpwner for all the original muzzle fire effects
+LORDPrometheus for C.A.L support
+Snjo for Firespitter plugin
+Summerfirefly and Ladeng for the massively improved ASW plugin
+All volunteers helped with our localization

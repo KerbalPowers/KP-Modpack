@@ -1,0 +1,365 @@
+﻿0.7.0 (IMPORTANT) - "Land of Dragon"
+Used new compression method to get a slightly lighter package.
+Updated plugin to adapt to latest BDArmory Continued.
+Tweaked yaw speed of 12.7 cm/50 cal Type 3 Naval Gun Dual Mount Turret up to 6 dps.
+Tweaked up overheat speed of most small caliber AA guns.
+Tweaked thrust time of shipborne torpedoes to match real world values.
+Tweaked QF 2-pounder "Pom-pom" Mark ⅥA Mount's rate of fire down to 96 rpm.
+Torpedoes now use the sound effect from vanilla BDAc (old sound effect removed).
+Temporarily removed BDAc short name localization files. 
+Removed the DEFORMATTER file (all localization tags are sorted into separate part cfgs).
+Remade model of 5"/38 cal Mk 12 Naval Gun Mark 30 Turret and all torpedoes.
+6"/47 caliber Mark 16 Gun Triple Turret could fire VT shells (for AA battles) now.
+Shortened default drop times of High Velocity Aircraft Rocket (HVAR) and Tiny Tim Unguided Rocket.
+Propellers of torpedoes would rotate now when deployed.
+Overhauled definitions of all parts/bullets according to new BDAc configurations.
+Optimized textures of some Japanese weapons.
+Minor changes in Chinese descriptions.
+High Velocity Aircraft Rocket (HVAR) and Tiny Tim Unguided Rocket have less thrusts now.
+Fixed Flag Pole now has a waving flag.
+Fixed bullet configuration of 28 cm SK C/28 Triple Turret.
+Enlarged lift area of Fritz X Guided Anti-ship Bomb, High Velocity Aircraft Rocket (HVAR) and Tiny Tim Unguided Rocket.
+Compressed more textures to reduce memory leak.
+Added 5 new parts:
+ - ROC Navy: 10.5 cm SK L/40 (Mitsubishi Version), BL 6 inch Mk XXI Naval Gun, Kiangnan 152 mm Single Mount
+ - Misc: Aerial Flare Bomb, Depth Charge Rack
+
+0.6.6.1 (FIX) - "Our Freedom"
+Updated plugin to adapt to KSP 1.3.1 and latest BDArmory Continued.
+Tweaked node position of Depth Charge Mark Ⅸ Mod 2.
+Stopped redistributing C.A.L++ since all ammos have been merged into BDAc.
+Retextured Tallboy 12,000 lb Earthquake Bomb.
+Redefined all radars for new BDAc features (now they consume ElectricCharge).
+Minor changes in Japanese and Spanish descriptions.
+Inherited 1-01A Universal Ammunition Box and BDExplosiveTweakScale.cfg from C.A.L++, old users could still use them.
+FuMO 61 "Hohentwiel U" radar can no longer lock targets.
+Corrected sizes of two Bofors 40 mm L/60's (Mark 4 Quad Mount & QF 40 mm Mk I Mount).
+Added a custom part category for NAS parts.
+
+0.6.6 (IMPORTANT) - "Our Freedom"
+Updated plugin to adapt to latest BDArmory Continued.
+Minor changes in Chinese descriptions and weapon type of depth charges.
+Added target engaging settings for Guard Mode.
+Added 1 new part:
+ - US Navy: Bofors 40 mm L/60 (Mark 4 Quad Mount)
+
+0.6.5.2 (FIX) - "Crossroads"
+* Special thanks to forum user Next_Star_Industries ,for his help with Russian localization!
+Tweaked size of torpedo/DC settings UI.
+Significantly optimized gun and torpedo sound effects (which caused slightly larger file sizes).
+Rechecked existing localization files and corrected a few spelling mistakes.
+Added localization support to Russian.
+
+0.6.5.1 (FIX) - "Crossroads"
+Updated part list.
+Tweaked overheating rate of 10 cm/65 Type 98 Naval Gun.
+Tweaked deviation angles of all guns (once which were too accurate) to make them more realistic and still somehow player-friendly, based on following rules:
+~ Any medium to large caliber weapon (larger than 75 mm) would have a deviation that would match the average length of the same class ships at the edge of effective range.
+~ Side cannons, except 15.5 cm/60 3rd Year Type Naval Gun Triple Turret (cruiser gun), would use a destroyer template, large caliber AA guns use 2/3 of maximum range as effective range.
+Fixed localization path of 28 cm SK C/28 Twin Turret.
+Added localization support to Spanish.
+
+0.6.5 (IMPORTANT) - "Crossroads"
+*Special thanks to forum user eboshi, who greatly helped with localization progress of NAS!
+Updated plugins for compatibility with KSP 1.3, and added the function of setting depths of all torpedoes/depth charges on board (UI localized in simplified Chinese and Japanese).
+Updated to latest C.A.L++.
+Tweaked Fritz X Guided Anti-ship Glide Bomb so it can work more smoothly.
+Removed LoadingTipsPlus configuring file.
+Rebalanced small caliber AA weapons, now they should be about 1/3 less powerful, and buffed range of Type 96 25 mm AT/AA Gun Triple Mount.
+Overhauled all the tags, now it would be easier to search any parts.
+Applied new exhaust effects to all torpedoes/rockets and Fritz X, now they behave normal.
+Applied armor piercing settings to CA/BB guns, and rebalanced their powers.
+Added localization support to simplified Chinese and Japanese. Sorry that we only have speakers of these two languages among our team members and volunteers, please help us with all these untranslated texts.
+Added 2 new parts:
+ - Kriegsmarine: 28 cm SK C/28 Triple Turret
+ - US Army: 14-inch M1909 Twin Turret (Fort Drum Type)
+
+0.6.2 (FIX) - "Naval Holiday"
+Updated plugins for full compatibility with KSP 1.2.2.
+Updated to latest C.A.L++.
+Fixed a model glitch of Oerlikon 20 mm L70 Cannon Mk 20 Twin Mount.
+
+0.6.1 (FIX) - "Naval Holiday"
+Fixed an issue which made Type 91 Torpedo Mod 2 "Thunder Fish" staying still in water.
+Fixed an issue which caused depth charges to explode instantly after being dropped.
+
+0.6.0 (IMPORTANT) - "Naval Holiday"
+* Thanks to TheBeardyPenguin & TAPEGaming on YouTube, for their awesome Fall Of Kerbin series and multiple battle tests in actual game, which greatly helped us improve NAS!
+Updated plugins for compatibility with KSP 1.2 (old plugins would still work with new/modified parts if you're running 1.1.x).
+Updated to latest C.A.L++.
+Tweaked rotating speed of 610 mm Torpedo Launcher.
+Tweaked lift settings of unguided rockets.
+Tweaked launching speeds and crash tolerances of torpedoes so they can be ejected like real ones.
+Tweaked explosion model sizes of cruiser cannon shells.
+Tweaked blasting radii of most cannon shells (blasting powers have not been modified) for reality.
+Simplified BDA short names of a few turrets.
+Reverted some description changes in 0.5.5 due to a font issue in new version.
+Renamed the single US 5" gun as 5"/38 cal Mk 12 Naval Gun Mark 30 Turret.
+Removed the dummy NAS toolbar icon, ASWeapon folder and ATM config file.
+Removed air burst setting of Type 96 25 mm AT/AA Gun Triple Mount rounds.
+Reduced blasting radii of depth charges for reality and safety.
+Reduced ammo storage of all main/secondary turrets to 20 shots (e.g. 60 rounds for a triple turret), which can be extended with universal ammo box or the new magazine part.
+Redistributed source code of ASW.dll in the package.
+Provided a complete part list.
+Optimized textures and converted all normal maps to DDS format under a new method.
+Modified particle texture of Tiny Tim Unguided Rocket and Type 93 Torpedo "Long Lance".
+Corrected short name of 3.7 cm SK C/30 Anti-aircraft Gun Dual Mount and Type 96 25 mm AT/AA Gun Triple Mount.
+Corrected description and exhausting effect of Tiny Tim Unguided Rocket.
+Corrected attaching node and mass center of 12.7 cm/50 cal Type 3 Naval Gun Dual Mount Turret.
+Added longer pauses to torpedo launchers after firing the last torpedo, to make sure all torpedoes go towards target straightly.
+Added a LoadingTipsPlus configuring file, which included a bunch of custom loading tips.
+Added 3 new parts:
+ - US Navy: 12"/50 caliber Gun Mark 8 Triple Turret, AN-Mk 1 1,600 lb Armor Piercing Bomb
+ - Misc: ETM-1 Universal Extended Naval Magazine
+
+0.5.5.7/F (HOTFIX) - "Lend-Lease Act"
+Fixed ammo type definition of 3-inch Naval Gun Mount Mark 21.
+
+0.5.5.7 (FIX) - "Lend-Lease Act"
+Tweaked ship-launched torpedo masses and power of Mark 15 Torpedo for reality.
+Tweaked buoyancy settings of torpedoes.
+Corrected name format of Type 93 Torpedo "Long Lance".
+Added 1 new part:
+ - Imperial Japanese Navy: Type 91 Torpedo Mod 2 "Thunder Fish"
+
+0.5.5.6 (FIX) - "Lend-Lease Act"
+Updated to latest C.A.L++.
+Tweaked deviations of AA guns around 40 mm again for a bit better performances.
+Tweaked attaching node position of Tallboy 12,000 lb Bomb.
+Limited air detonation range of 10 cm/65 Type 98 Naval Gun.
+Slightly compressed and optimized textures of some bombs.
+Added credits.
+
+0.5.5.5 (HOTFIX) - "Lend-Lease Act"
+Limited detonation ranges of medium caliber AA/DP guns.
+Deleted useless temporary files.
+Compressed NAS flag and more textures.
+
+0.5.5 (IMPORTANT) - "Lend-Lease Act"
+Unified manufacturer of all parts and added a special agency "Kerbin Navy" for them.
+Tweaked and unified stack node sizes of all turrets.
+Tweaked tolerance parameters of torpedoes again to avoid possible risks in operations.
+Tweaked deviations of small caliber AA guns.
+Transcoded all sound effect files to ogg format for smaller sizes.
+Set default decoupling speeds of depth charges to 0.
+Rebalanced all cannon/machine gun shell masses based on Aviator Arsenal data (thanks to tetryds), it won't affect performance of cannon type weapons for now, while affecting ballistic type obviously.
+Multiple title & description corrections.
+Fixed some wrong sound effect settings.
+Fixed air detonation/proximity fuse settings of most AA/DP guns.
+Enabled default barrage settings of all weapons with rate of fire higher than 9 rpm.
+Applied a new heavy cruiser gun sound effect.
+Added blasting heat parameters to all bomb/torpedo-type weapons.
+Added 3 new parts:
+ - Royal Navy: BL 15 inch Mk Ⅰ Naval Gun Dual Mount (Soviet Navy Painting)
+ - US Navy: 3-inch Naval Gun Mount Mark 21
+ - Misc: NRF-1 General Naval Range Finder
+
+0.5.2 (FIX) - "Mathematical War"
+Strengthened joint of Vickers 14 inch/45 Naval Twin Turret.
+Obviously increased blasting powers of torpedoes considering shockwave effects under water.
+Increased launching speeds of torpedoes.
+Improved firing effects of all guns.
+Deleted a useless backup texture.
+Decreased blasting radius and default cruising depths of torpedoes.
+
+0.5.0.5 (HOTFIX) - "Red Star over Oceans"
+Temporary solution to ASW plugin spamming log files. (Toolbar button is a placeholder)
+Strengthened joint of 41 cm/45 3rd Year Type Naval Gun. (DEPRECATED)
+Fixed wrong size of 37 mm/67 66-K Automatic Anti-aircraft Gun Turret, 3.7 cm SK C/30 Anti-aircraft Gun Dual Mount, Bofors 40 mm Dual Mount, Dual M2HB Mount and Oerlikon 20 mm Dual Mount.
+Fixed accuracy settings of most guns.
+Added weapon manager module to STEN Mk. Ⅱ Submachine Gun.
+
+0.5.0 (IMPORTANT) - "Red Star over Oceans"
+Tweaked auto proximity range of AA and DP guns again (to prevent shells from exploding too early).
+Removed hydraulic sound effects of all manually-operating only AA guns.
+Reduced shell damaging radius of 40 cm (46 cm)/45 Type 94 Naval Gun Triple Mount.
+Lowered impact tolerance and max depth of ship-based torpedoes.
+Lowered firing rate of 10 cm/65 Type 98 Naval Gun.
+Lowered default and maximum cruising depths of torpedoes.
+Fixed wrong size of Type 96 25 mm AT/AA Gun Triple Mount, and it now fires airburst rounds.
+Fixed shell exploding effect of BL 14 inch Mk Ⅶ Naval Gun Quadruple Mount.
+Fixed inappropriate proximity settings and shell damaging radius of Bofors 40 mm Dual Mount.
+Compressed more part textures.
+Added 8 new parts:
+ - Imperial Japanese Navy: 20.3 cm/50 3rd Year No.3 Naval Gun, 41 cm/45 3rd Year Type Naval Gun
+ - Les Forces Navales Françaises Libres: 380 mm/45 Modèle 1935 Gun Quadruple Turret
+ - Royal Navy: 18" Mark Ⅻ Aerial Torpedo
+ - Soviet Navy: 180 mm/57 B-1-P Turret, 130 mm B-2LM Turret, 37 mm/67 66-K Automatic Anti-aircraft Gun Turret, 12.7 mm DShK 1938 Heavy Machine Gun Single Mount
+
+0.4.5.5 (FIX) - "Wolves Underneath"
+Updated C.A.L++ to 0.1.5.
+Updated all dependant plugins to KSP 1.1 compatible versions.
+Unified color of 5"/38 cal Mk 12 Naval Gun Single Mount with all other US navy weapons.
+Tweaked torpedo particle effects.
+Tweaked auto proximity range of AA and DP guns.
+Tags (still under heavy tweaks) are added to all parts.
+Slightly tweaked cruising speed of Mark 15 torpedo.
+Radars are now in their realistic sizes (which we should have adjusted long ago).
+No longer redistributing Part Icon Fixer.
+
+0.4.5 (IMPORTANT) - "Wolves Underneath"
+Slightly optimized normal map of 40 cm (46 cm)/45 Type 94 Naval Gun Triple Mount.
+Merged latest version of AntiSubmarineWeapons by our member GeorgeDuty and all its functions into this release. Updates of that plugin can be found in its own thread.
+Disabled barrage mode of all slow-firing weapons and weapons with 2+ barrels.
+Applied AntiSubmarineWeapons support to all existing torpedoes. Now they can have a fixed cruising depth and are able to detonate automatically when going too deep.
+Adjusted parameters of existing torpedoes and bombs.
+Added 2 new parts:
+ - Imperial Japanese Navy: Type 3 Depth Charge
+ - US Navy: Depth Charge Mark Ⅸ Mod 2
+
+0.4.0.6 (HOTFIX) - "Atlantic Epic"
+Fixed CoM and buoyancy issues of Mark 15 torpedo.
+
+0.4.0.5 (HOTFIX) - "Atlantic Epic"
+Tweaked tracer effects of all small caliber anti-aircraft weapons.
+Applied better air detonation effects to different forces.
+Added 1 new part:
+ - US Navy: Mark 14 Torpedo Tubes Quintuple Mount
+
+0.4.0 (IMPORTANT) - "Atlantic Epic"
+Updated C.A.L++ to 0.1.0 (with all existing ammo boxes deprecated).
+Slightly improved anti-aircraft weapon muzzle fire effects.
+Removed the old fake Mark 14 torpedo launcher.
+Redistributed the Firespitter plugin by Snjo for the new universal ammo box in C.A.L++.
+Redid model of 20.3 cm SK/C 34.
+Most light anti-aircraft guns now contain their own ammunitions. (Amounts may vary)
+Fixed an issue that some bombs bounce on the water surface.
+Changed guidance mode of Fritz X to beam riding.
+Applied a temporary buoyancy to torpedoes before we have a specific guidance.
+Added 8 new parts:
+ - Kriegsmarine: 10.5 cm SK C/33 Naval Gun
+ - Les Forces Navales Françaises Libres (Free French Naval Forces): Canon de 138 mm Modèle 1934 Twin Turret
+ - Regia Marina: Cannone da 381/50 Ansaldo M1934, 90 mm/50 (3.5") Ansaldo Model 1938, Cannone-Mitragliera da 37/54 (Breda) Model 1932
+ - Royal Navy: BL 14 inch Mk Ⅶ Naval Gun Quadruple Mount, QF 2-pounder "Pom-pom" Mark ⅥA Mount
+ - US Navy: Mark 15 Torpedo (launcher would come in next patch due to some issues)
+
+0.3.6 (IMPORTANT) - "Imperial Fleet"
+*Thanks harpwner for his excellent work on muzzle fire effects!
+Updated C.A.L++ to 0.0.8.
+Reduced accuracy of small caliber anti-aircraft guns.
+Redefined all gun powers according to new BDArmory definition.
+New particle effects applied on most naval guns.
+Fixed the stack node of Vickers 14 inch turret.
+Fixed buoyancy of all parts.
+Extended maximum air detonation ranges.
+Damage calculation now uses formula below:
+[P = cannonShellPower ≈ 6 * m^(0.4) (m stands for the shell's TNT equivalent of bursting charge, kg)(Recommending 7.5 * m^(0.4) for 75 to 155 mm guns)]
+[H = cannonShellHeat ≈ 10.5 * m^(0.4) (Recommending 13.125 * m^(0.4) for 75 to 155 mm guns)]
+[R = cannonShellRadius ≈ 21 * m^(0.8) (Recommending 4.2 * m^(0.8) or 8.4 * m^(0.8) for medium to large caliber cannons)]
+Added 3 new parts:
+ - Imperial Japanese Navy: 14 cm/50 3rd Year Type Naval Gun, Type 93 "Long Lance" Torpedo, 610 mm Torpedo Tube Quad Mount
+
+0.3.5.1 (HOTFIX) - "Devastation From Above"
+Tweaked a few drag issues of some air dropped weapons.
+
+0.3.5 (IMPORTANT) - "Devastation From Above"
+Some of the bombs now contain harpwner's kinetic penetrator module [shown as (K)], which provides some extra damage with North Kerbin Dynamics installed.
+Fixed the category of Vickers 14 inch/45 Naval Twin Turret.
+Added 5 new parts:
+ - Imperial Japanese Navy: Type 99 Mod 80 Bomb (K) (for sinking USS Arizona)
+ - Luftwaffe: Fritz X Guided Anti-ship Bomb (K) (for sinking RN Roma)
+ - Royal Air Force: Tallboy 12,000 lb Bomb (K) (for sinking DKM Tirpitz)
+ - US Navy: High Velocity Aircraft Rocket (HVAR), Tiny Tim Unguided Rocket (for sinking Japanese transports)
+
+0.3.0 (IMPORTANT)- "Super-dreadnought"
+Updated C.A.L (C.A.L++) to latest version.
+Refined sizes of some turrets. Now their scales look more reasonable and 80% realistic.
+Redid model of Vickers 14 inch/45 Naval Twin Turret, and name correction.
+Optimized firing and reloading sound effects.
+Improved small to medium caliber gun accuracy and nerfed anti-aircraft gun deviation.
+DDSified more textures.
+Corrected the name of 3.7 cm SK C/30.
+Adjusted spread angle of Mark 14 torpedoes to a smaller range.
+Added an original Kerbin Navy flag.
+Added full stock tech tree support.
+Added muzzle fire effects and animations to some first released weapons.
+Added 6 new parts:
+ - Imperial Japanese Navy: 15.5 cm/60 3rd Year Type Naval Gun Triple Turret
+ - Royal Navy: BL 16 inch Mk Ⅰ Naval Gun Twin Turret
+ - US Navy: 6"/47 caliber Mark 16 Gun Triple Turret, 8"/55 cal Mark 16 Gun Triple Turret, 16"/50 cal Mark 7 Gun Triple Turret
+ - Misc: Fixed Flag Pole
+
+0.2.6.1 (HOTFIX) - "Advanced Ammo"
+Fixed the issue that some players got stuck at 9mm ammo backpack.
+
+0.2.6 (IMPORTANT) - "Advanced Ammo"
+Lowered densities of all medium to large caliber ammo (via C.A.L++ 0.0.4).
+Hid all NAS parts from the stock Utility part tab.
+Rebalanced all heat data to make turrets some more destructible.
+Added 5 new parts:
+ - British Army: STEN Mk. Ⅱ Submachine Gun (equipping an EVA, requires KIS)
+ - Imperial Japanese Navy: Type 2 Mark 2 Model 1 Modify 2 Air Search Radar
+ - Royal Navy: Type 281 Early Warning Radar
+ - US Navy: Mark 14 Triple Mount Torpedo Tubes
+ - Miscellaneous: 9*19mm Parabellum Ammunition Backpack (equipping an EVA, requires KIS)
+
+0.2.5 (IMPORTANT) - "Propellants & Electrons"
+All parts have been sorted into directories of their own served naval forces.
+Prepared a Textures folder for future features (empty now).
+Any weapon needing ammo boxes includes its ammo type in descriptions now.
+Added a stack node to M2 Browning Mount.
+Corrected the name of 12.7 cm/50 3rd Year Type Naval Gun (which used to be described as Type 3, and short name stays the same).
+Rescaled 20.3 cm SK/C 34 slightly to fit other turrets.
+Recalculated cannonShellPower and cannonShellRadius of all cannons according to Acea's BDArmory approximate power equations. 
+[P = Power = 5.25 * m^(1/3) (Cannon Shells) / 5.75 * m^(1/3) (Bombs & Missiles) (m stands for the shell's TNT equivalent of bursting charge, kg) , R = Radius = 3.75 * P (AP) / 5.6 * P (HE) / K * P (Bombs & Missiles, K ranges from 1.25 to 1.75)]
+Added 3 new parts:
+ - US Navy: 5"/38 cal Mk 12 Naval Gun Mark 28 Mod 0 Turret, Mk 25 Fire Control Radar
+ - Kriegsmarine: FuMO 61 Hohentwiel U Radar
+
+0.2.2 (IMPORTANT) - "Old Empires":
+Updated C.A.L to 0.0.3 (I got density of 37mmFlaKAmmo wrong again, and fixed it in this release. Sorry Prometheus :p).
+Converted all textures except normal maps to DDS format, they work nice in test.
+Enabled stack nodes of most guns, and strengthened all nodes significantly.
+Disabled the airburst function of Mark 12 5"/38.
+Tweaked some parameters of 2 cm Flakvierling 38.
+Redid the model and texture of 38 cm SK/C 34.
+The two 5 inch guns now fire 5/62Shell instead of default CannonShell.
+Added 3 new parts:
+ - Royal Navy: QF 4.5 inch Mk Ⅳ Naval Gun / Mk Ⅴ Mount (with airburst)
+ - Kriegsmarine: 3.7 cm SK C/30 Anti-aircraft Gun Dual Mount
+ - Imperial Japanese Navy: Type 96 25 mm AT/AA Gun Triple Mount
+
+0.2.1 (IMPORTANT) - "460 for 4600+":
+Redistribured C.A.L by LORDPrometheus. Now NAS relies on its resources to work.
+Added changelog text into NAS archive.
+New sound effects for naval guns.
+Rescaled 38 cm SK C/34 to a reasonable size.
+Tweaked parameters of all middle and large caliber guns.
+Added short name of 20 mm Oerlikon AA Gun.
+Added 1 new part:
+- Imperial Japanese Navy: 40 cm (46 cm)/45 Type 94 Naval Gun Triple Mount
+Removed the original 40mm ammo box.
+
+0.2.0/T (HOTFIX) - "Airborne Clear":
+Tweaked rotating speed of 2 cm Flakvierling 38, which was too slow to use.
+Tweaked tracer color of 2 cm Flakvierling 38 and 40 mm Bofors.
+Tweaked blast power of some overpowered parts, including 12.7 cm Type 3, 10 cm Type 98 and 40 mm Bofors.
+
+0.2.0 (IMPORTANT) - "Airborne Clear":
+Changed the license to CC BY-SA.
+Redefined prices of all parts.
+Added 5 new anti-aircraft weapons:
+ - US Navy: Dual M2HB Mount, Oerlikon 20 mm Dual Mount
+ - Royal Navy: Bofors 40 mm Dual Mount
+ - Imperial Japanese Navy: 10 cm/65 Type 98 Naval Gun
+ - Kriegsmarine: 2 cm FlaK 38 Quad Mount (Flakvierling)
+Added 40 mm ammo and an ammo box, containing 400 rounds.
+
+0.1.3 (IMPORTANT) - "More Dual":
+Converted OGG audios to WAV for those don't have a decoder for it.
+Added mount rings to some guns.
+Got Mark 12 5"/38's texture redone, and now it fires airburst rounds.
+Added 1 new weapon:
+ - Imperial Japanese Navy: 12.7 cm/50 cal Type 3 Naval Gun Dual Mount Turret
+
+0.1.2 (IMPORTANT) - "Improved RAM":
+Resized all turrets to reasonable sizes, like BDArmory itself does, together with their masses.
+Compressed all textures to 1024*1024 to save memory.
+Got 38 cm SK /C 34's texture completely redone.
+Added a plain text version of CC BY-NC-SA into the package.
+
+0.1.1 (HOTFIX):
+Replaced the painful looking DDS textures with TGA. Looking for a better solution to save memory. (DEPRECATED)
+
+0.1.0:
+Initial release. (DEPRECATED)

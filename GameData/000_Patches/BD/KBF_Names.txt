@@ -1,0 +1,26 @@
+
+@PART[T14turret]
+{
+	%title = T-14 Armata Turret
+	%manufacturer = Klensgrad Tractor Commune
+	%description = The T-14 Armata is a next-generation main battle tank based on the Armata Universal Combat Platform. It boasts range in excess of other contemporaries...
+}
+
+@PART[CROWS]
+{
+	%title = CROWS 50cal Turret
+	%description = The Common Remotely Operated Weapon Station (CROWS) is a series of remote weapon stations.
+}
+
+@PART[CROWS-30MM]
+{
+	%title = CROWS 30mm Turret
+	%description = The Common Remotely Operated Weapon Station (CROWS) is a series of remote weapon stations. This heavy 30mm version is commonly used as a secondary turret in main battle tanks.
+}
+
+
+@PART[TU423]
+{
+	%title = NS23 Bomber Turret
+	%description = Self defence turret mainly used in bomber aircraft
+}

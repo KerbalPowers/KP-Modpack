@@ -41,8 +41,6 @@ Kerbal Foundries: https://github.com/shadowmage45/KerbalFoundries2/releases
 ### Gameplay Tweaks
 MiniMods: https://github.com/KerbalPowers/MiniMods/releases
 
-Ground Effect: https://github.com/Capital-Asterisk/KSP_GroundEffect/releases
-
 Rational Hydrodynamics: https://spacedock.info/mod/2635/Rational%20HydroDynamics
 
 ## Optional Mods

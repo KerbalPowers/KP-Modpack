@@ -1,0 +1,1 @@
+These go into Stock Waterfall Effects unless in order to work

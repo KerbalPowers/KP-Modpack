@@ -1,0 +1,3 @@
+Radars send out radio waves which bounce off of objects and then are picked back up by the radar and processed into a selection of radar contacts, which can then be tracked and locked. Smaller objects, or objects with angles and properties that partially deflect and absorb incoming radio waves, are more difficult for the radar to detect and lock than larger objects. In addition, it is always easier to detect an object than it is to lock it.
+
+In practice, this means that radars will first detect a target at a longer range before later being able to lock and track it accurately enough to guide a weapon to it, and craft which are constructed in a certain way are able to reduce the ranges at which this detecting and locking can occurr.
